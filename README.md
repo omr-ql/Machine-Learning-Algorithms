@@ -2,7 +2,7 @@
 
 Hello Everyone, this is my Machine Learning modules I have implemented so far.
 
-## Modules
+## Supervised Learning Modules
 
 - **Simple Linear Regression**
   - A simple linear regression model to predict values based on a linear relationship between variables.
