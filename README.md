@@ -1,8 +1,6 @@
 # Machine Learning
 
-Hello Everyone, this is my Machine Learning modules I have implemented so far.
-
-## Supervised Learning Modules
+## Supervised Learning Modules : 
 
 - **Simple Linear Regression**
   - A simple linear regression model to predict values based on a linear relationship between variables.
@@ -21,3 +19,9 @@ Hello Everyone, this is my Machine Learning modules I have implemented so far.
 
 - **K Nearest Neighbor**
   - A non-parametric method used for classification and regression by comparing a point to its k-nearest neighbors.
+
+## Unsupervised Learning Modules : 
+
+- **K-Means Clustering** 
+  - it is an Algorithm used to partition data into K distinct clusters by minimizing the variance within each cluster. It assigns each data point to the 
+    nearest cluster centroid and updates centroids iteratively until convergence.
